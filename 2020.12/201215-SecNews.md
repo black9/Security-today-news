@@ -39,7 +39,7 @@ https://www.bleepingcomputer.com/news/google/google-chromes-high-resource-ad-blo
 ---
   
 
-#### 4. 해커는 SolarWinds의 Orion 네트워크 관리 제품을 손상시켜 연방 기관 및 FireEye의 네트워크에 침입
+### 4. 해커는 SolarWinds의 Orion 네트워크 관리 제품을 손상시켜 연방 기관 및 FireEye의 네트워크에 침입
 
 
 https://thehackernews.com/2020/12/facebook-tracks-apt32-oceanlotus.html
