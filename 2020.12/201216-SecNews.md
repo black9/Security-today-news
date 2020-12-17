@@ -44,7 +44,7 @@ GoLang과 협력하여 Go 언어의 XML 파서 내에 3 가지 중요한 취약�
 ---
   
 
-### 4. Tesla Keylogger, 데이터 도난 및 타겟팅 업데이트 획득지
+### 4. Tesla Keylogger, 데이터 도난 및 타겟팅 업데이트 
 
 
 https://thehackernews.com/2020/12/facebook-tracks-apt32-oceanlotus.html
