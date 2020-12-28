@@ -36,5 +36,9 @@
   
 
 #### [2020년 12월 23일](https://github.com/black9/Security-today-news/blob/main/2020.12/201223-SecNews.md)  
+  
 
 #### [2020년 12월 24일](https://github.com/black9/Security-today-news/blob/main/2020.12/201224-SecNews.md)  
+
+  
+#### [2020년 12월 28일](https://github.com/black9/Security-today-news/blob/main/2020.12/201228-SecNews.md) 
