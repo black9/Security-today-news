@@ -50,4 +50,4 @@
 
 
 
-#### [2020년 12월 30일](https://github.com/black9/Security-today-news/blob/main/2020.12/201231-SecNews.md) 
+#### [2020년 12월 31일](https://github.com/black9/Security-today-news/blob/main/2020.12/201231-SecNews.md) 
