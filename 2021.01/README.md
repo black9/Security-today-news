@@ -24,3 +24,6 @@
   
   
 #### [2021년 1월 13일](https://github.com/black9/Security-today-news/blob/main/2021.01/210113-SecNews.md) 
+  
+  
+#### [2021년 1월 14일](https://github.com/black9/Security-today-news/blob/main/2021.01/210114-SecNews.md) 
