@@ -43,14 +43,23 @@ Bronze Bit 공격이라고하는 이 기술은 CVE-2020-17049 취약성을 악�
 ---
   
   
-### 4. Bitcoin-Stealing Malware로 묶인 RubyGems 패키지  
+### 4. VoIP 취약성 : CoTURN 패치 액세스 제어 보호 우회  
   
   
-https://threatpost.com/rubygems-packages-bitcoin-stealing-malware/162360/    
+https://portswigger.net/daily-swig/voip-vulnerability-coturn-patches-access-control-protection-bypass?&web_view=true   
     
   
-Ruby 웹 프로그래밍 언어의 오픈 소스 패키지 저장소이자 관리자인 RubyGems는 악성 코드가 발견 된 후 2개의 소프트웨어 패키지를 오프라인으로 전환   
+- 공격자는 CoTURN 서버의 기본 액세스 제어 규칙을 우회하고 방화벽 뒤의 네트워크 서비스에 액세스 할 수 있다고 보안 연구원이 발견  
   
-오픈 소스 소프트웨어 저장소에서 사용할 수있는 두 개의 Ruby 인 "pretty_color"와 "ruby-bitcoin"은 웹 애플리케이션 사용자로부터 비트 코인을 훔치기 위해 손상되었음을 발견  
+
+- 한 연구원은 특정 상황에서 공격자가 계속해서 RCE ( 원격 코드 실행 )를 수행 할 수 있다고 추측  
+  
+
+- 베를린에 기반을 둔 Enable Security는 VoIP 플랫폼을 지원 하는 오픈 소스 서버 를 사용하는 조직 에게 구성 조언과 최신 소프트웨어 업데이트를 적용 할 것을 촉구  
+  
+
+- 프록시 서버와 유사하게 TURN (Traversal Using Relays around NAT) 서버는 TCP 연결 및 UDP 패킷을 다른 피어로 릴레이 할 수 있음  
+  
+  
   
   
